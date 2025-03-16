@@ -38,13 +38,13 @@ Customer Retention Strategies:
 
 ## Repository Structure
 
-customer-churn-prediction/
-│── data/ # Folder for dataset files
-│ ├── raw/ # Unprocessed datasets
-│ └── processed/ # Cleaned and transformed datasets
-│── notebooks/ # Jupyter notebooks for analysis
+customer-churn-prediction
+│── data # Folder for dataset files
+│ ├── raw # Unprocessed datasets
+│ └── processed # Cleaned and transformed datasets
+│── notebooks # Jupyter notebooks for analysis
 │ └── customer-churn-prediction-project.ipynb # Main analysis
-│── reports/ # Reports & insights
+│── reports # Reports & insights
 │ └── business_recommendations.md
 │── requirements.txt # Python dependencies
 │── README.md # Project documentation
