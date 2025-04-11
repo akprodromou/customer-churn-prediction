@@ -65,9 +65,9 @@ Customer Retention Strategies:
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/akprodromou/customer-churn-prediction.git
-cd customer-churn-prediction
-pip install -r requirements.txt
+- `git clone https://github.com/akprodromou/customer-churn-prediction.git`
+- `cd customer-churn-prediction`
+- `pip install -r requirements.txt`
 
 Run the Jupyter notebook:
 
