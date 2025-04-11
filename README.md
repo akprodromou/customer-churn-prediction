@@ -50,23 +50,22 @@ Customer Retention Strategies:
 
 ## Repository Structure
 
-customer-churn-prediction/
-├── data/                                 # Folder for dataset files
-│   ├── raw/                              # Unprocessed datasets
-│   └── processed/                        # Cleaned and transformed datasets
-├── notebooks/                             # Jupyter notebooks for analysis
-│   └── customer-churn-prediction-project.ipynb  # Main analysis
-├── reports/                               # Reports & insights
-│   └── business_recommendations.md
-├── requirements.txt                       # Python dependencies
-├── README.md                              # Project documentation
-└── .gitignore                             # Files to ignore
+- `data/` – Dataset files  
+  - `raw/` – Unprocessed datasets  
+  - `processed/` – Cleaned and transformed datasets  
+- `notebooks/` – Jupyter notebooks for analysis  
+  - `customer-churn-prediction-project.ipynb` – Main notebook  
+- `reports/` – Reports and insights  
+  - `business_recommendations.md`  
+- `requirements.txt` – Python dependencies  
+- `README.md` – Project documentation  
+- `.gitignore` – Files to ignore
 
 ## How to Run the Analysis
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/customer-churn-prediction.git
+git clone https://github.com/akprodromou/customer-churn-prediction.git
 cd customer-churn-prediction
 pip install -r requirements.txt
 
